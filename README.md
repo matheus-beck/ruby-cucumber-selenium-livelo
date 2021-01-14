@@ -17,7 +17,9 @@ The features of the tests are inside `features/livelo_black_box.feature` and the
 
 ## 🎥 Tests Execution Demonstration
 
-![Cucumber execution](execution.gif)
+<p align="center">
+  <img src="execution.gif" />
+</p>
 
 ## 📅 Cucumber Report
   ![Cucumber Report](cucumber-report.png)
