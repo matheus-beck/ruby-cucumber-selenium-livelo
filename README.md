@@ -1,7 +1,7 @@
 # 👨‍💻 QA Ruby, Cucumber and Selenium Challenge - Livelo Website
 
 <p align="center">
-  <img alt="compassouol logo" width="75%" src="https://eventos.ecommercebrasil.com.br/forum/wp-content/uploads/sites/108/2020/06/compasso.png">
+  <img alt="compassouol logo" width="35%" src="https://eventos.ecommercebrasil.com.br/forum/wp-content/uploads/sites/108/2020/06/compasso.png">
 </p>
 
 <p align="center">
@@ -20,7 +20,9 @@ The features of the tests are inside `features/livelo_black_box.feature` and the
 ![Cucumber execution](execution.gif)
 
 ## 📅 Cucumber Report
-- [Link to Cucumber Report](cucumber-report.html)
+  [Cucumber Report](cucumber-report.png)
+- [Link to Cucumber Report HTML](cucumber-report.html)
+- [Link to Cucumber Report PDF](cucumber-report.pdf)
 
 ## 💾 Development Dependencies Used
 
