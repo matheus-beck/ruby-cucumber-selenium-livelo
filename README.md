@@ -46,7 +46,7 @@ bundle install
 2. Now, to run the tests:
 
 ```console
-cuucmber
+cucumber
 ```
 
 3. Verify the tests results output:
