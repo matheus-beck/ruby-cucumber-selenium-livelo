@@ -31,6 +31,7 @@ The features of the tests are inside `features/livelo_black_box.feature` and the
 - "Ruby":  "2.7.2"
 - "Bundler": "2.2.5"
 - "Cucumber": "5.2.0"
+- "RSpec": "3.4.0"
 - "Selenium Web Driver": "3.142.7"
 - "Chrome Driver": "87.0.4280.88"
 - "Google Chrome": "87.0.4280.141"
