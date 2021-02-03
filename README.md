@@ -1,8 +1,4 @@
-# 👨‍💻 QA Ruby, Cucumber and Selenium Challenge - Livelo Website
-
-<p align="center">
-  <img alt="compassouol logo" width="35%" src="https://eventos.ecommercebrasil.com.br/forum/wp-content/uploads/sites/108/2020/06/compasso.png">
-</p>
+# 👨‍💻 QA Ruby, Cucumber and Selenium Automation - Livelo Website
 
 <p align="center">
   <img alt="GitHub powered by" src="https://img.shields.io/badge/cucumber-tests-green.svg?style=flat-square">
@@ -11,7 +7,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/beck-developer/livelo-qa-challenge">
 </p>
 
-Ruby, Cucumber and Selenium front-end test in the add to cart functionality of a website (`https://www.livelo.com.br/`) for the tech QA challenge from [Compasso UOL](https://compassouol.com/). 
+Ruby, Cucumber and Selenium front-end test automation in the add to cart functionality of a website (`https://www.livelo.com.br/`). 
 
 The features of the tests are inside `features/livelo_black_box.feature` and the step definitions are inside `features/step_definitions/livelo_black_box_steps.rb`
 
@@ -58,4 +54,4 @@ cucumber
 <p>This project is under the MIT license. See the <a href="https://github.com/beck-developer/livelo-qa-challenge/blob/master/LICENSE">LICENSE</a> for more information.</p>
 ---
 
-Made with ❤ by Beck 👋 
+Made with ❤ by Matheus Beck 👋 [Get in touch!](https://www.linkedin.com/in/matheus-beck/)
